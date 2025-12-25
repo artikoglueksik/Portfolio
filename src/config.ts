@@ -13,7 +13,7 @@ export type AspectRatio =
 
 export interface SiteConfig {
   // Site Information
-  site: string;
+  site: 'https://portfolio-mu-wheat-50.vercel.app/';
   title: string;
   description: string;
   author: string;
