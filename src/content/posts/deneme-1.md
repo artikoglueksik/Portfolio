@@ -11,4 +11,4 @@ hideTOC: false
 targetKeyword: ""
 draft: false
 ---
-hadi bakalım. oldu!
+hadi bakalım. oldu! private yaptımm
