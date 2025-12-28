@@ -11,4 +11,3 @@ hideTOC: false
 targetKeyword: ""
 draft: false
 ---
-hadi bakalım. oldu! private yaptımm mı???
