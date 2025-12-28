@@ -1,11 +1,11 @@
 ---
-title: "insert a note"
+title: insert a note
 description: ""
 category: ""
 order: 0
 lastModified: 2025-12-29
 version: ""
-image: ""
+image: "[[spaceview.png]]"
 imageAlt: ""
 hideCoverImage: false
 hideTOC: false
