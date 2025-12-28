@@ -286,9 +286,9 @@ export const siteConfig: SiteConfig = {
   // Profile Picture
   profilePicture: {
     // [CONFIG:PROFILE_PICTURE_ENABLED]
-    enabled: false, 
+    enabled: true, 
     // [CONFIG:PROFILE_PICTURE_IMAGE]
-    image: "/profile.jpg", // Path to your profile image (place in public/ directory)
+    image: "pages/curriculum-vitae/Ahmet Ali Bağcı CV Photo.jpg", // Path to your profile image (place in public/ directory)
     // [CONFIG:PROFILE_PICTURE_ALT]
     alt: "Profile picture",
     // [CONFIG:PROFILE_PICTURE_SIZE]
@@ -298,7 +298,7 @@ export const siteConfig: SiteConfig = {
     // [CONFIG:PROFILE_PICTURE_PLACEMENT]
     placement: "footer", // "footer" or "header"
     // [CONFIG:PROFILE_PICTURE_STYLE]
-    style: "circle", // "circle", "square", or "none"
+    style: "square", // "circle", "square", or "none"
   },
 
   // Navigation

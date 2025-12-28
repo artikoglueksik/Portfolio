@@ -165,7 +165,7 @@
     "hideScrollBar": false,
     "scrollToTop": true,
     "showSocialIconsInFooter": true,
-    "profilePicture": false,
+    "profilePicture": true,
     "comments": false,
     "featureButton": "mode",
     "showPostCardCoverImages": "featured-and-posts",
@@ -193,13 +193,13 @@
   },
   "optionalFeatures": {
     "profilePicture": {
-      "enabled": false,
-      "image": "/profile.jpg",
+      "enabled": true,
+      "image": "pages/curriculum-vitae/Ahmet Ali Bağcı CV Photo.jpg",
       "alt": "Profile picture",
       "size": "md",
       "url": "",
       "placement": "footer",
-      "style": "circle"
+      "style": "square"
     },
     "comments": {
       "enabled": false,
