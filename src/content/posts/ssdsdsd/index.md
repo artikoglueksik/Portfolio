@@ -1,14 +1,14 @@
 ---
-title: deneme-1
-date: 2025-12-25
+title: "ssdsdsd"
+date: 2025-12-28
 description: ""
 tags: []
-image:
+image: ""
 imageAlt: ""
 imageOG: false
 hideCoverImage: false
 hideTOC: false
 targetKeyword: ""
-draft: false
+draft: true
 ---
-hadi bakalım. oldu! private yaptımm mı???
+![](Picture1.jpg)
