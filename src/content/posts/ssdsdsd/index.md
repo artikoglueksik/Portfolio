@@ -12,5 +12,6 @@ targetKeyword: ""
 draft: false
 aliases:
   - ssdsdsd
+  - posts
 ---
 ![](Picture1.jpg)
