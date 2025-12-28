@@ -6,22 +6,22 @@ hideTOC: false
 draft: false
 ---
 
-> [!info] Education 
+**Education** 
 
 - Kartal Anatolian Imam-Hatip High School, 2018-2023
 	- IGCSE, 2019-2020
 - Istanbul University
 	- Bachelor of Arts in Political Science and International Relations, 2023-present
 	- Erasmus Student Mobility 
-		- Eberhard Karls Universität Tübingen 2023-present 2025-present, 2025-present
+		- Eberhard Karls Universität Tübingen, 2025-present
 
-> [!thingscolor] Languages
+*Languages*
 
 - Turkish: native 
 - English: fluent (IELTS 7,5 score obtained in 2024) 
 - Chinese: reading and writing with limited speaking (HSK 4 obtained in 2025)
 
- > [!note] Certificates
+ ***Certificates***
 
 - Four-week Program of International Chinese Language Teachers Scholarship at Shanghai University, July 14-August 8, 2025
 - SETA Spring Seminars, April 14-May 21 2025
