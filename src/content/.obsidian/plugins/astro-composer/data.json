@@ -43,7 +43,7 @@
       "name": "Projects",
       "folder": "projects",
       "linkBasePath": "/projects/",
-      "template": "---\ntitle: \"{{title}}\"\ndate: {{date}}\ncategories: []\nrepositoryUrl: \"\"\nprojectUrl: \"\"\nimage: \"\"\nimageAlt: \"\"\nhideCoverImage: false\nhideTOC: false\ndraft: false\nfeatured: false\naliases:\n---",
+      "template": "---\ntitle: \"{{title}}\"\ndate: {{date}}\ndescription: \"\"\ncategories: []\nrepositoryUrl: \"\"\nprojectUrl: \"\"\nstatus: \"\"\nimage: \"\"\nimageAlt: \"\"\nhideCoverImage: false\nhideTOC: false\ndraft: false\nfeatured: false\naliases:\n---",
       "enabled": true,
       "creationMode": "folder",
       "indexFileName": "",
