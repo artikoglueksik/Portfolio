@@ -7,6 +7,9 @@ draft: false
 aliases:
   - CV
 ---
+````ad-note
+adaaaaa
+````
 # Curriculum Vitae
 
 > [!info] Education 
