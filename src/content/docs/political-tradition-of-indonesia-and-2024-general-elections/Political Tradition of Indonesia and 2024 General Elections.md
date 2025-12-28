@@ -16,7 +16,7 @@ featured: false
 aliases:
   - index
 ---
-![](Indonesia%202024%20presidential%20elections%20abstain.png)
+![[Indonesia 2024 presidential elections abstain.png]]
 
 
 Located on a geography of Archipelagos, Indonesia is a multi-ethnic and multi-cultural country with a population of 273 million people and a large territory. Indonesian society is characterized by ethnic variety and cultivation of Islamization, Indianization and Dutch colonialism. In 1945 Indonesian state proclaimed its independence from Netherlands after a collective struggle that united its constituent societies. Once the common battle against Dutch imperialism had been won, the passionate differences dividing various nationalist about the future of Indonesia surfaced.[i]
