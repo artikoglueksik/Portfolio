@@ -54,7 +54,7 @@
       },
       {
         "title": "Curriculum Vitae",
-        "url": "https://portfolio-mu-wheat-50.vercel.app/curriculum-vitae"
+        "url": "/curriculum vitae/"
       },
       {
         "title": "GitHub",
@@ -133,7 +133,7 @@
       "maxNodes": 100,
       "showOrphanedPosts": true
     },
-    "postNavigation": true,
+    "postNavigation": false,
     "showPostCardCoverImages": "featured-and-posts",
     "postCardAspectRatio": "og",
     "customPostCardAspectRatio": "2.5/1",
@@ -161,7 +161,7 @@
     "linkedMentions": true,
     "linkedMentionsCompact": false,
     "graphView": true,
-    "postNavigation": true,
+    "postNavigation": false,
     "hideScrollBar": false,
     "scrollToTop": true,
     "showSocialIconsInFooter": true,

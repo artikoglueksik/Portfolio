@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitae
+title: curriculum vitae
 description: Learn more about Astro Modular and the philosophy behind its design approach.
 noIndex: false
 hideTOC: false

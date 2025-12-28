@@ -314,7 +314,7 @@ export const siteConfig: SiteConfig = {
       { title: "Posts", url: "/posts/" },
       { title: "Projects", url: "/projects/" },
       { title: "Docs", url: "/docs/" },
-      { title: "Curriculum Vitae", url: "https://portfolio-mu-wheat-50.vercel.app/curriculum-vitae" },
+      { title: "Curriculum Vitae", url: "/curriculum vitae/" },
       { title: "GitHub", url: "https://www.reddit.com/r/withastro/comments/1pf2e4f/introducing_vault_cms_use_obsidian_to_write_and/" }
     ],
     // [CONFIG:NAVIGATION_SOCIAL]
@@ -401,7 +401,7 @@ export const siteConfig: SiteConfig = {
       showOrphanedPosts: true,
     },
     // [CONFIG:POST_OPTIONS_POST_NAVIGATION]
-    postNavigation: true,
+    postNavigation: false,
     // [CONFIG:POST_OPTIONS_SHOW_POST_CARD_COVER_IMAGES]
     showPostCardCoverImages: "featured-and-posts", // "all" | "featured" | "home" | "posts" | "featured-and-posts" | "none"
     // [CONFIG:POST_OPTIONS_POST_CARD_ASPECT_RATIO]
