@@ -5,7 +5,7 @@ category: ""
 order: 0
 lastModified: 2025-12-29
 version: ""
-image: Indonesia 2024 presidential elections abstain 1.jpg
+image: "[[Indonesia 2024 presidential elections abstain 1.jpg]]"
 imageAlt: Abstain in the 2024 presidential elections
 hideCoverImage: false
 hideTOC: false
