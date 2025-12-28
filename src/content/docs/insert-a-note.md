@@ -1,17 +1,19 @@
 ---
 title: insert-a-note
-description: ""
-category: ""
-order: 0
+description: Complete guide to setting up, configuring, and customizing your Astro Modular blog theme.
+category: Astro Modular
+order: 1
 lastModified: 2025-12-29
-version: ""
+version: 1.0.0
 image: "[[attachments/spaceview.png]]"
-imageAlt: ""
+imageAlt: spaceship
 hideCoverImage: false
 hideTOC: false
 draft: false
 noIndex: false
-featured: false
+featured: true
+aliases:
+  - spaceshipview
 ---
 ![](../attachments/spaceview.png)
 
