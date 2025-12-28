@@ -7,7 +7,6 @@ draft: false
 ---
 
 ## Education
-### Education
 
 - Kartal Anatolian Imam-Hatip High School, 2018-2023
 	- IGCSE, 2019-2020
@@ -16,13 +15,13 @@ draft: false
 	- Erasmus Student Mobility 
 		- Eberhard Karls Universität Tübingen, 2025-present
 
-*Languages*
+## Languages
 
 - Turkish: native 
 - English: fluent (IELTS 7,5 score obtained in 2024) 
 - Chinese: reading and writing with limited speaking (HSK 4 obtained in 2025)
 
- ***Certificates***
+ ## Certificates
 
 - Four-week Program of International Chinese Language Teachers Scholarship at Shanghai University, July 14-August 8, 2025
 - SETA Spring Seminars, April 14-May 21 2025
@@ -33,11 +32,11 @@ draft: false
 - Middle Level Chinese Language Course, Chinese Center Culture, 2023-2024
 - The Conference for Israel's National Security Strategy, Istanbul University, October 28 2023
 
-**Scholarships**
+## Scholarships
 
 - The International Chinese Language Teachers Scholarship, July 14-August 10 2025
 
- > [!thingscolor] Extracurricular Activities
+## Extracurricular Activities
 
 - Nuclear Strategy Reading Workshop, KUME, June 18-August 27 2025
 - Competed in UNILIG Traditional Archery Target Competition, Istanbul, May 31 2025
@@ -50,7 +49,7 @@ draft: false
 - Introduction to Quantum Computing Course, The Coding School, October 2020- May 2021
 - Training for Combatting Information Disorder, June 16-30 2021
 
-> [!thingscolor] Skills
+## Skills
 
 - Academic research and writing
 - Negotiation
@@ -59,6 +58,6 @@ draft: false
 - Leadership
 - Translation
 
-> [!thingscolor] Additional Information
+## Additional Information
 
 **Areas of interest:** Traditional archery, political history, linguistics
