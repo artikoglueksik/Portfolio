@@ -10,7 +10,7 @@ imageAlt: Abstain in the 2024 presidential elections
 hideCoverImage: false
 hideTOC: false
 draft: false
-noIndex: false
+noIndex: true
 tags:
 featured: false
 aliases:
