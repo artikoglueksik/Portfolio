@@ -29,7 +29,7 @@
       "id": "pages-1765432337485",
       "name": "Pages",
       "folder": "pages",
-      "linkBasePath": "",
+      "linkBasePath": "/pages/",
       "template": "---\ntitle: \"{{title}}\"\ndescription: \"\"\nnoIndex: false\nhideTOC: false\ndraft: true\n---\n",
       "enabled": true,
       "creationMode": "folder",
