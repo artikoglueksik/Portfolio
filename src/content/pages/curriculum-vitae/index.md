@@ -6,7 +6,8 @@ hideTOC: false
 draft: false
 ---
 
-**Education** 
+## Education
+### Education
 
 - Kartal Anatolian Imam-Hatip High School, 2018-2023
 	- IGCSE, 2019-2020
@@ -32,7 +33,7 @@ draft: false
 - Middle Level Chinese Language Course, Chinese Center Culture, 2023-2024
 - The Conference for Israel's National Security Strategy, Istanbul University, October 28 2023
 
-> [!thingscolor] Scholarships
+**Scholarships**
 
 - The International Chinese Language Teachers Scholarship, July 14-August 10 2025
 
