@@ -5,7 +5,7 @@ category: ""
 order: 0
 lastModified: 2025-12-29
 version: ""
-image: "[[../attachments/spaceview.png]]"
+image: "[[attachments/spaceview.png]]"
 imageAlt: ""
 hideCoverImage: false
 hideTOC: false
