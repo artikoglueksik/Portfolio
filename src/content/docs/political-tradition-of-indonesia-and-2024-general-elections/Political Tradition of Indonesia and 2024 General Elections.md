@@ -9,9 +9,9 @@ image: "[](Indonesia%202024%20presidential%20elections%20abstain.png)"
 imageAlt: Abstain in the 2024 presidential elections
 hideCoverImage: false
 hideTOC: false
-draft: true
+draft: false
 noIndex: false
-tags: 
+tags:
 featured: false
 aliases:
   - index
