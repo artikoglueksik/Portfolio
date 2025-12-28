@@ -315,7 +315,7 @@ export const siteConfig: SiteConfig = {
       { title: "Projects", url: "/projects/" },
       { title: "Docs", url: "/docs/" },
       { title: "About", url: "/about/" },
-      { title: "Curriculum Vitae", url: "/curriculum-vitae/" }
+      { title: "About Me", url: "/curriculum-vitae/" }
     ],
     // [CONFIG:NAVIGATION_SOCIAL]
     social: [

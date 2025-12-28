@@ -1,5 +1,5 @@
 ---
-title: curriculum vitae
+title: Curriculum Vitae
 description: ""
 noIndex: false
 hideTOC: false
