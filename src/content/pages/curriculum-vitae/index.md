@@ -5,7 +5,6 @@ noIndex: false
 hideTOC: false
 draft: false
 ---
-![](Ahmet%20Ali%20Bağcı%20CV%20Photo.jpg)
 
 > [!info] Education 
 
