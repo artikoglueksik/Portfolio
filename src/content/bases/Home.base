@@ -38,8 +38,9 @@ views:
   - type: bases-cms
     name: Posts
     filters:
-      and:
+      or:
         - file.folder.startsWith("posts")
+        - file.folder.startsWith("docs")
     sort:
       - property: date
         direction: DESC

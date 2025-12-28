@@ -1,5 +1,5 @@
 {
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "promptDelete": true,
   "showIndentGuide": false,
   "attachmentFolderPath": "./",
