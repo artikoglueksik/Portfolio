@@ -314,7 +314,7 @@ export const siteConfig: SiteConfig = {
       { title: "Posts", url: "/posts/" },
       { title: "Projects", url: "/projects/" },
       { title: "Docs", url: "/docs/" },
-      { title: "Curriculum Viate", url: "/Curriculum Vitae/" },
+      { title: "Curriculum Viate", url: "pages/Curriculum Vitae/" },
       { title: "GitHub", url: "https://github.com/davidvkimball/astro-modular" }
     ],
     // [CONFIG:NAVIGATION_SOCIAL]
