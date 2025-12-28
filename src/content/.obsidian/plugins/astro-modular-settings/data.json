@@ -53,14 +53,8 @@
         "url": "/docs/"
       },
       {
-        "title": "About",
-        "url": "/about/",
-        "children": [
-          {
-            "title": "Privacy Policy",
-            "url": "/privacy-policy/"
-          }
-        ]
+        "title": "Curriculum Viate",
+        "url": "/Curriculum Vitae/"
       },
       {
         "title": "GitHub",
