@@ -5,7 +5,7 @@ category: ""
 order: 0
 lastModified: 2025-12-29
 version: ""
-image: docs/political-tradition-of-indonesia-and-2024-general-elections/Indonesia 2024 presidential elections abstain.png
+image: docs/political-tradition-of-indonesia-and-2024-general-elections/Indonesia 2024 presidential elections abstain.jpg
 imageAlt: Abstain in the 2024 presidential elections
 hideCoverImage: false
 hideTOC: false
@@ -16,8 +16,9 @@ featured: false
 aliases:
   - index
 ---
-![[Indonesia 2024 presidential elections abstain.png]]
+![[Indonesia 2024 presidential elections abstain.jpg]]
 
+Abstain in the 2024 presidential elections
 
 Located on a geography of Archipelagos, Indonesia is a multi-ethnic and multi-cultural country with a population of 273 million people and a large territory. Indonesian society is characterized by ethnic variety and cultivation of Islamization, Indianization and Dutch colonialism. In 1945 Indonesian state proclaimed its independence from Netherlands after a collective struggle that united its constituent societies. Once the common battle against Dutch imperialism had been won, the passionate differences dividing various nationalist about the future of Indonesia surfaced.[i]
 
