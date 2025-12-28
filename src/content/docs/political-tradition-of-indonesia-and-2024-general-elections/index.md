@@ -10,9 +10,9 @@ imageAlt: Abstain in the 2024 presidential elections
 hideCoverImage: false
 hideTOC: false
 draft: false
-noIndex: true
+noIndex: false
 tags:
-featured: false
+featured: true
 aliases:
   - index
   - Political Tradition of Indonesia and 2024 General Elections

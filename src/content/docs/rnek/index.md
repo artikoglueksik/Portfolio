@@ -11,6 +11,6 @@ hideCoverImage: false
 hideTOC: false
 draft: false
 noIndex: false
-featured: false
+featured: true
 ---
 ![](Indonesia%202024%20presidential%20elections%20abstain.jpg)
