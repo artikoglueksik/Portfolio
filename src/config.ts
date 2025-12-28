@@ -314,7 +314,7 @@ export const siteConfig: SiteConfig = {
       { title: "Posts", url: "/posts/" },
       { title: "Projects", url: "/projects/" },
       { title: "Docs", url: "/docs/" },
-      { title: "Curriculum Vitae", url: "/curriculum vitae/" },
+      { title: "About", url: "/about/" },
       { title: "GitHub", url: "https://www.reddit.com/r/withastro/comments/1pf2e4f/introducing_vault_cms_use_obsidian_to_write_and/" }
     ],
     // [CONFIG:NAVIGATION_SOCIAL]
