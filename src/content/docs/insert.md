@@ -14,8 +14,9 @@ noIndex: false
 featured: true
 aliases:
   - spaceshipview
+  - insert-a-note
 ---
-![](../attachments/spaceview.png)
+
 
 *Photo by [Aldebaran S](https://unsplash.com/@aldebarans?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
 

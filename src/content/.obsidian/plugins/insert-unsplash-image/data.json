@@ -2,7 +2,7 @@
   "insertMode": "local",
   "orientation": "landscape",
   "insertSize": "",
-  "imageSize": "medium",
+  "imageSize": "large",
   "frontmatter": {
     "key": "image",
     "valueFormat": "[[attachments/{image-url}]]",
