@@ -6,6 +6,7 @@ hideTOC: false
 draft: false
 ---
 ![](Ahmet%20Ali%20Bagci%20CV%20Photo.jpg)
+asasasas
 ## Education
 
 - Kartal Anatolian Imam-Hatip High School, 2018-2023
