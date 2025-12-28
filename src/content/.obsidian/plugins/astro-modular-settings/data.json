@@ -54,7 +54,7 @@
       },
       {
         "title": "Curriculum Vitae",
-        "url": "pages/Curriculum Vitae"
+        "url": "Curriculum Vitae"
       },
       {
         "title": "GitHub",
@@ -80,9 +80,9 @@
     "placeholder": "Search posts",
     "search": {
       "posts": true,
-      "pages": false,
-      "projects": false,
-      "docs": false
+      "pages": true,
+      "projects": true,
+      "docs": true
     },
     "sections": {
       "quickActions": true,
