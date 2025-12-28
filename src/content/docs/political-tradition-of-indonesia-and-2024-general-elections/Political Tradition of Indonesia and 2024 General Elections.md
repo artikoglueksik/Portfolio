@@ -5,7 +5,7 @@ category: ""
 order: 0
 lastModified: 2025-12-29
 version: ""
-image: "[[Indonesia 2024 presidential elections abstain 1.jpg]]"
+image: attachments/Indonesia 2024 presidential elections abstain 1.jpg
 imageAlt: Abstain in the 2024 presidential elections
 hideCoverImage: false
 hideTOC: false
@@ -16,7 +16,7 @@ featured: false
 aliases:
   - index
 ---
-![](Indonesia%202024%20presidential%20elections%20abstain%201.jpg)
+![](../attachments/Indonesia%202024%20presidential%20elections%20abstain%201.jpg)
 
 Abstain in the 2024 presidential elections
 
@@ -24,15 +24,11 @@ Located on a geography of Archipelagos, Indonesia is a multi-ethnic and multi-cu
 
 In 1950s federalist movements emerged leading central government to take harsh measures for suppression. Government of Sukarno, the first president of Indonesia, thus became against the idea of a federation of loosely knit regions. The source of this inner confrontation was the deep disagreements about the nature of the state itself, particularly the issues of federalism and the role of Islam[ii]. On the other hand, the first but provisional 1945 constitution had proved to be embracing and elastic frame for political life. In the preamble was the Pancasila, meaning five principles, that states:
 
-belief in the One and Only God,
-
-just and civilized humanity,
-
-the unity of Indonesia,
-
-and democratic life led by wisdom of thoughts in deliberation amongst representatives of the people,
-
-and achieving social justice for all the people of Indonesia.[iii]
+- belief in the One and Only God,
+- just and civilized humanity,
+- the unity of Indonesia,
+- and democratic life led by wisdom of thoughts in deliberation amongst representatives of the people,
+- and achieving social justice for all the people of Indonesia.[iii]
 
 Yet the readoption of 1945 constitution couldn’t be achieved due to fragmentated composition of the Constituent Assembly. The body deadlocked on two fundamental issues, the role of Islam in the state and the question of federalism.[iv] As a consequence Sukarno was left with the choice of assuming extra-constitutional authority and from thereon a military rule standing behind him prevailed in 1959. The military rule remained at power until 1998 in which Suharto, the president after Sukarno, resigned with the pressure of students and scholars. After his resignment two constitutional reforms had been made in 1998 and 2007 starting a transition to Democracy. This democratic transition has entirely dismantled the institutionalized politicization of the Pancasila.
 
