@@ -1,5 +1,5 @@
 ---
-title: "ssdsdsd"
+title: ssdsdsd
 date: 2025-12-28
 description: ""
 tags: []
@@ -9,6 +9,8 @@ imageOG: false
 hideCoverImage: false
 hideTOC: false
 targetKeyword: ""
-draft: true
+draft: false
+aliases:
+  - ssdsdsd
 ---
 ![](Picture1.jpg)
