@@ -4,6 +4,7 @@ description: Learn more about Astro Modular and the philosophy behind its design
 noIndex: false
 hideTOC: false
 draft: false
+featured: true
 aliases:
   - CV
 ---
