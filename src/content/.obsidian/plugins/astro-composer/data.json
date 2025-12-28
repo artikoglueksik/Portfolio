@@ -33,7 +33,7 @@
       "template": "---\ntitle: \"{{title}}\"\ndescription: \"\"\nnoIndex: false\nhideTOC: false\ndraft: true\n---\n",
       "enabled": true,
       "creationMode": "folder",
-      "indexFileName": "index",
+      "indexFileName": "",
       "ignoreSubfolders": false,
       "enableUnderscorePrefix": false,
       "collapsed": false
