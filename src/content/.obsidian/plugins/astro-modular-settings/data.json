@@ -53,8 +53,14 @@
         "url": "/docs/"
       },
       {
-        "title": "Curriculum Vitae",
-        "url": "/pages/Curriculum Vitae.md"
+        "title": "contact",
+        "url": "/pages/contact.md",
+        "children": [
+          {
+            "title": "New ChildCurriculum Vitae",
+            "url": "/pages/Curriculum Vitae.md"
+          }
+        ]
       },
       {
         "title": "GitHub",
