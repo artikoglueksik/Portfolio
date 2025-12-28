@@ -1,3 +1,7 @@
+# Obsidian workspace files
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+
 # Dependencies
 node_modules/
 .pnpm-store/

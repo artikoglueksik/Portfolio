@@ -1,9 +1,9 @@
 {
-  "runWizardOnStartup": true,
+  "runWizardOnStartup": false,
   "currentTemplate": "standard",
   "currentTheme": "oxygen",
   "customThemeFile": "custom",
-  "contentOrganization": "file-based",
+  "contentOrganization": "folder-based",
   "themeColors": {
     "mode": "simple",
     "simpleColors": {
@@ -12,10 +12,10 @@
     }
   },
   "siteInfo": {
-    "site": "https://astro-modular.netlify.app",
-    "title": "Astro Modular",
-    "description": "A flexible blog theme designed for Obsidian users.",
-    "author": "David V. Kimball",
+    "site": "portfolio-mu-wheat-50.vercel.app",
+    "title": "Ahmet Ali",
+    "description": "",
+    "author": "Ahmet Ali Bağcı",
     "language": "en",
     "faviconThemeAdaptive": true,
     "defaultOgImageAlt": "Astro Modular logo."
@@ -226,7 +226,7 @@
     }
   },
   "deployment": {
-    "platform": "netlify"
+    "platform": "vercel"
   },
   "pluginConfig": {
     "obsidianSettings": {
