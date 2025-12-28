@@ -16,7 +16,7 @@ featured: false
 aliases:
   - index
 ---
-![[Indonesia 2024 presidential elections abstain.jpg]]
+![](Indonesia%202024%20presidential%20elections%20abstain.jpg)
 
 Abstain in the 2024 presidential elections
 
