@@ -54,7 +54,7 @@
       },
       {
         "title": "contact",
-        "url": "/pages/contact.md",
+        "url": "/pages/contact.md/",
         "children": [
           {
             "title": "Curriculum Vitae",

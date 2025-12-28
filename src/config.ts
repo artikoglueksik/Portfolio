@@ -314,7 +314,7 @@ export const siteConfig: SiteConfig = {
       { title: "Posts", url: "/posts/" },
       { title: "Projects", url: "/projects/" },
       { title: "Docs", url: "/docs/" },
-      { title: "contact", url: "/pages/contact.md",
+      { title: "contact", url: "/pages/contact.md/",
         children: [
           { title: "Curriculum Vitae", url: "/pages/Curriculum Vitae.md" }
         ] },
