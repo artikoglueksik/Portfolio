@@ -5,7 +5,7 @@ category: Astro Modular
 order: 1
 lastModified: 2025-12-29
 version: 1.0.0
-image: "[[attachments/astro-modular-configuration.png]]"
+image: "[[attachments/crazyinsert.png]]"
 imageAlt: spaceship
 hideCoverImage: false
 hideTOC: false
@@ -18,6 +18,8 @@ aliases:
 ---
 
 
+
 *Photo by [Aldebaran S](https://unsplash.com/@aldebarans?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
 
 hello
+
