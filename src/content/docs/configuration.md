@@ -5,7 +5,7 @@ category: Astro Modular
 order: 1
 version: 1.0.0
 lastModified: 2025-10-23
-image: "[[attachments/astro-modular-configuration.png]]"
+image: https://preview.redd.it/introducing-vault-cms-use-obsidian-to-write-and-publish-v0-5hvqt1mkff5g1.png?width=1414&format=png&auto=webp&s=76ad58c7660f75eef80e721e2b0ebc7743129e14
 imageAlt: Astro Modular preview, showing different theme and layout options.
 hideCoverImage: false
 hideTOC: false

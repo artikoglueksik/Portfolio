@@ -5,7 +5,7 @@ category: aesthetics
 order: 0
 lastModified: 2025-12-29
 version: ""
-image: "[[attachments/a-hope-for-aesthetics 1.png]]"
+image: "[[docs/attachments/a-hope-for-aesthetics.png]]"
 imageAlt: ""
 hideCoverImage: false
 hideTOC: false
