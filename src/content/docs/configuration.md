@@ -5,7 +5,7 @@ category: Astro Modular
 order: 1
 version: 1.0.0
 lastModified: 2025-10-23
-image: "[[attachments/astro-modular-configuration.png]]"
+image: "[[attachments/astro-modular-.png]]"
 imageAlt: Astro Modular preview, showing different theme and layout options.
 hideCoverImage: false
 hideTOC: false
