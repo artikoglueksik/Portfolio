@@ -5,7 +5,7 @@ category: aesthetics
 order: 0
 lastModified: 2025-12-29
 version: ""
-image: D:\Portfolio\src\content\docs\attachments\a-hope-for-aesthetics.png
+image: "[[public/images/indoesina-electipns.jpg]]"
 imageAlt: ""
 hideCoverImage: false
 hideTOC: false
