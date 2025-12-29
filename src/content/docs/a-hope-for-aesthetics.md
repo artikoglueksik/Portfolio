@@ -5,7 +5,7 @@ category: aesthetics
 order: 0
 lastModified: 2025-12-29
 version: ""
-image: "[[Inserted image 20251229034219.png]]"
+image: "[[attachments/Inserted-image-20251229034219.png]]"
 imageAlt: ""
 hideCoverImage: false
 hideTOC: false
@@ -16,5 +16,5 @@ featured: false
 ![](attachments/a-hope-for-aesthetics.png)
 *Photo by [Ewa W.](https://unsplash.com/@gwiazdaporanna?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
 
-![](Inserted%20image%2020251229034219.png)
+![](attachments/Inserted-image-20251229034219.png)
 *Photo by [TopSphere Media](https://unsplash.com/@zvessels55?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
