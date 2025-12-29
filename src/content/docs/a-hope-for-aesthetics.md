@@ -18,5 +18,5 @@ featured: false
 ![](attachments/a-hope-for-aesthetics.png)
 *Photo by [Ewa W.](https://unsplash.com/@gwiazdaporanna?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
 
-![](attachments/Inserted-image-20251229034219.png)
+![](attachments/astro-modular-configuration.png)
 *Photo by [TopSphere Media](https://unsplash.com/@zvessels55?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
