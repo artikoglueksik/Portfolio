@@ -5,7 +5,7 @@ category: Astro Modular
 order: 1
 lastModified: 2025-12-29
 version: 1.0.0
-image: "[[attachments/spaceview.png]]"
+image: "[[attachments/astro-modular-configuration.png]]"
 imageAlt: spaceship
 hideCoverImage: false
 hideTOC: false
