@@ -1,6 +1,7 @@
 ---
 title: Curriculum Vitae
 description: ""
+image: "[[attachments/water.png]]"
 noIndex: false
 hideTOC: false
 draft: false
