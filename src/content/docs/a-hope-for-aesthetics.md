@@ -1,7 +1,7 @@
 ---
 title: a hope for aesthetics
 description: ""
-category: ""
+category: aesthetics
 order: 0
 lastModified: 2025-12-29
 version: ""
