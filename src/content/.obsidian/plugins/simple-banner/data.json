@@ -120,7 +120,7 @@
     "interop": {}
   },
   "properties": {
-    "autohide": false,
+    "autohide": true,
     "image": "image",
     "icon": "icon",
     "datetime": "date"

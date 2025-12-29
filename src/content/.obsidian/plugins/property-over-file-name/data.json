@@ -5,7 +5,7 @@
   "includeFilenameInSearch": true,
   "includeAliasesInSearch": true,
   "enableForDragDrop": true,
-  "useSimpleSearch": false,
+  "useSimpleSearch": true,
   "enableForGraphView": true,
   "enableForBacklinks": true,
   "enableForTabs": true,
