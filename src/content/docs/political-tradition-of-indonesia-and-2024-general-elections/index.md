@@ -5,7 +5,7 @@ category: ""
 order: 0
 lastModified: 2025-12-29
 version: ""
-image: "[[../attachments/astro-modular-configuration.jpg]]"
+image: docs/attachments/indoesina-electipns.jpg
 imageAlt: Abstain in the 2024 presidential elections
 hideCoverImage: false
 hideTOC: false
@@ -17,7 +17,7 @@ aliases:
   - index
   - Political Tradition of Indonesia and 2024 General Elections
 ---
-![](../attachments/astro-modular-configuration.jpg)
+![](../attachments/indoesina-electipns.jpg)
 
 Abstain in the 2024 presidential elections
 
