@@ -5,7 +5,7 @@ category: Astro Modular
 order: 1
 lastModified: 2025-12-29
 version: 1.0.0
-image: "[[attachments/crazyinsert.png]]"
+image: "[[attachments/crazyinsert.jpg]]"
 imageAlt: spaceship
 hideCoverImage: false
 hideTOC: false
